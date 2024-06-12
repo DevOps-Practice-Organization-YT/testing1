@@ -1,2 +1,1 @@
-Hubert Spencer
-qbi777
+first change by Hubert Spencer
